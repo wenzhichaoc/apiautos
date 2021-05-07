@@ -1,0 +1,20 @@
+[2021-04-26 21:22:59,889] [log.py] [INFO]: 读出的数据是{'method': 'get', 'http': 'http://127.0.0.1:8000/login_action', 'data': '{"username":"admin","password":"admin"}', 'expect': '成功'}
+[2021-04-26 21:22:59,986] [log.py] [INFO]: 读出的数据是{'method': 'get', 'http': 'http://127.0.0.1:8000/login_action', 'data': '{"username":"admin","password":""}', 'expect': '失败'}
+[2021-04-26 21:23:39,914] [log.py] [INFO]: 读出的数据是{'method': 'get', 'http': 'http://127.0.0.1:8000/login_action', 'data': '{"username":"admin","password":"admin"}', 'expect': '成功'}
+[2021-04-26 21:23:39,914] [log.py] [INFO]: 读出的数据是{'method': 'get', 'http': 'http://127.0.0.1:8000/login_action', 'data': '{"username":"admin","password":""}', 'expect': '失败'}
+[2021-04-26 21:24:15,572] [log.py] [INFO]: 读出的数据是{'method': 'get', 'http': 'http://127.0.0.1:8000/login_action', 'data': '{"username":"admin","password":"admin"}', 'expect': '成功'}
+[2021-04-26 21:24:15,572] [log.py] [INFO]: 读出的数据是{'method': 'get', 'http': 'http://127.0.0.1:8000/login_action', 'data': '{"username":"admin","password":""}', 'expect': '失败'}
+[2021-04-26 21:24:26,075] [log.py] [INFO]: 读出的数据是{'method': 'get', 'http': 'http://127.0.0.1:8000/login_action', 'data': '{"username":"admin","password":"admin"}', 'expect': '成功'}
+[2021-04-26 21:24:26,076] [log.py] [INFO]: 读出的数据是{'method': 'get', 'http': 'http://127.0.0.1:8000/login_action', 'data': '{"username":"admin","password":""}', 'expect': '失败'}
+[2021-04-26 21:27:14,272] [log.py] [INFO]: 进行数据对比成功
+[2021-04-26 21:27:14,272] [log.py] [INFO]: 进行数据对比成功
+[2021-04-26 21:27:14,400] [log.py] [INFO]: 进行数据对比失败
+[2021-04-26 21:27:14,400] [log.py] [INFO]: 进行数据对比失败
+[2021-04-26 21:44:50,851] [log.py] [INFO]: 进行数据对比成功
+[2021-04-26 21:44:50,851] [log.py] [INFO]: 进行数据对比成功
+[2021-04-26 21:44:50,987] [log.py] [INFO]: 进行数据对比失败
+[2021-04-26 21:44:50,987] [log.py] [INFO]: 进行数据对比失败
+[2021-04-26 21:46:39,436] [log.py] [INFO]: 进行数据对比成功
+[2021-04-26 21:46:39,436] [log.py] [INFO]: 进行数据对比成功
+[2021-04-26 21:46:39,597] [log.py] [INFO]: 进行数据对比失败
+[2021-04-26 21:46:39,597] [log.py] [INFO]: 进行数据对比失败

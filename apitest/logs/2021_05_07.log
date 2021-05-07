@@ -1,0 +1,4 @@
+[2021-05-07 11:31:45,620] [log.py] [INFO]: this is info
+[2021-05-07 11:31:45,621] [log.py] [ERROR]: this is error
+[2021-05-07 11:31:45,621] [log.py] [WARNING]: this is warning
+[2021-05-07 11:31:45,621] [log.py] [CRITICAL]: critical
